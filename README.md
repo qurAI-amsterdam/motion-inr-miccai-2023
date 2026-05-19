@@ -1,5 +1,3 @@
-# Motion INR — Implicit Neural Representations for Cardiac Motion Estimation
-
 > Code accompanying the paper **"Deep Learning for Automatic Strain Quantification in Arrhythmogenic Right Ventricular Cardiomyopathy"** (MICCAI 2023 / STACOM workshop).
 ---
 
